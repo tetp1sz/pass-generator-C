@@ -24,6 +24,7 @@ It defines the following constants:
 
 At the same time, <code>stdint.h</code> is included in the header file, since all files use the types that this file defines.
 <hr>
+
 Stack used:
 <div align="center">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>&nbsp;
